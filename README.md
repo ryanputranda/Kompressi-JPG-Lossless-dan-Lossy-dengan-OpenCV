@@ -1,0 +1,1 @@
+# Kompressi-JPG-Lossless-dan-Lossy-dengan-OpenCV
